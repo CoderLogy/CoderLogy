@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sourceboxtv@gmail.com**
 
-- ⚡ Fun fact **I am a type of coder which love to learn anything that is practical and is needed to be solve my projects not like ones who wasting there time learn binary tree which does show any practically someone 's knowledge in code development I think it as wasteful only think practical,**
+- ⚡ Fun fact **I am a type of coder which love to learn anything that is practical and is needed to be solve my projects not like ones who wasting there time learn binary tree which does not show any practically someone 's knowledge in code development I think it as wasteful only think practical,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
