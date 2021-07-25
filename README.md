@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/coderlogy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="https://codepen.io/coderlogy" height="30" width="40" /></a>
 <a href="https://twitter.com/wadhwashourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="wadhwashourya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc4-brxxycfadtkpa_qe1xhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4-brxxycfadtkpa_qe1xhw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC4-BRxXYcfADtkPa_qE1Xhw?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4-brxxycfadtkpa_qe1xhw" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/gGugvbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="https://discord.gg/gGugvbs" height="30" width="40" /></a>
 </p>
 
