@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Brocode Ai](https://github.com/SourceBox-Tv/Bro-aiwithpython)
 
-- 🌱 I’m currently learning **React, Qt, Java , Python , webdev**
+- 🌱 I’m currently learning **Java, Python, Webdev, Robotics**
 
-- 🤝 I’m looking for help with my all projects on my organiztion feel free to help any of one [All type of help for all projects in organization](https://github.com/SourceBox-Tv)
+- 🤝 I’m looking for help with my all projects on my organiztion feel free to help any of one [Projects you can help me with](https://github.com/SourceBox-Tv)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SourceBox-Tv](https://github.com/SourceBox-Tv)
 
@@ -21,14 +21,15 @@
 
 - 📫 How to reach me **sourceboxtv@gmail.com**
 
-- ⚡ Fun fact **I am a type of coder which love to learn anything that is practical and is needed to be solve my projects not like ones who wasting there time learn binary tree which does not show any practically someone 's knowledge in code development I think it as wasteful only think practical,**
+- ⚡ Fun fact **I am a type of coder which love to learn anything that is practical and is needed to be solve my projects not like ones who wasting there time learn binary tree which does not show any practically someone 's knowledge in code development I think it as wasteful only think practical,because being practical
+and out of box thinking makes one succeed,aim and earn high rewards.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/coderlogy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="https://codepen.io/coderlogy" height="30" width="40" /></a>
-<a href="https://twitter.com/wadhwashourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="wadhwashourya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC4-BRxXYcfADtkPa_qE1Xhw?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4-brxxycfadtkpa_qe1xhw" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/gGugvbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="https://discord.gg/gGugvbs" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/coderlogy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/coderlogy" height="30" width="40" /></a>
+<a href="https://twitter.com/wadhwashourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wadhwashourya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC4-BRxXYcfADtkPa_qE1Xhw?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4-brxxycfadtkpa_qe1xhw" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/gGugvbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gGugvbs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
