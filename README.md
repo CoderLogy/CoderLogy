@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Shourya wadhwa
 #### I am the person of world.
-![I am the person of world.]![banner](https://user-images.githubusercontent.com/71631493/175268148-d6e24e2a-7cc7-4f15-9629-9f8e51b66529.png)
+![banner](https://user-images.githubusercontent.com/71631493/175268923-3037d11b-c4b8-48a4-8b31-cac5637aebc9.png)
 
 Hey, It's me a passionate developer from India. I hope to make many projects this year.
 
