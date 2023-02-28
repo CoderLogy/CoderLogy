@@ -26,9 +26,9 @@ Skills: Python / Java(basics) / Gamedev (C#)/ Robotics / Flutter(Want to learn)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Coderlogy&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Coderlogy)  
+[//]: < ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Coderlogy)  >
 
-![GitHub metrics](https://metrics.lecoq.io/Coderlogy)  
+[//]: < ![GitHub metrics](https://metrics.lecoq.io/Coderlogy)  >
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Coderlogy)  
 
