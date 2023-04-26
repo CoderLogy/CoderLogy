@@ -13,7 +13,7 @@ Skills: Python / Java(basics) / Gamedev (C#)/ Robotics (Arduino)/ Flutter(Want t
 - 💬 Ask me about Anything related to programming.  
 - 📫 How to reach me: sourceboxtv@gmail.com 
 - 😄 Pronouns: He/ His 
-- ⚡ Fun fact: The Apollo 11 guidance computer, which helped land humans on the moon, had less processing power than a modern-day calculator. It had just 64 kilobytes of memory!. 
+- ⚡ Fun fact: The Apollo 11 guidance computer, which helped land humans on the moon, had less processing power than a modern-day calculator. It had just 64 kilobytes of memory! .
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Coderlogy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@WadhwaShourya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Coderlogy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC4-BRxXYcfADtkPa_qE1Xhw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/invite/gGugvbs)  
