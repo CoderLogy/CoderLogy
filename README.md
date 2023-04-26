@@ -2,9 +2,9 @@
 #### I am the person of world.
 ![banner](https://user-images.githubusercontent.com/71631493/175268923-3037d11b-c4b8-48a4-8b31-cac5637aebc9.png)
 
-Hey, It's me a passionate developer from India. I hope to make many projects this year.
+Hey, It's me a passionate developer from World. I hope to make many projects this year.
 
-Skills: Python / Java(basics) / Gamedev (C#)/ Robotics / Flutter(Want to learn)
+Skills: Python / Java(basics) / Gamedev (C#)/ Robotics (Arduino)/ Flutter(Want to learn)
 
 - 🔭 I’m currently working on Cool-Terminal[2022] 
 - 🌱 I’m currently learning python,c# and much more 
@@ -13,7 +13,7 @@ Skills: Python / Java(basics) / Gamedev (C#)/ Robotics / Flutter(Want to learn)
 - 💬 Ask me about Anything related to programming.  
 - 📫 How to reach me: sourceboxtv@gmail.com 
 - 😄 Pronouns: He/ His 
-- ⚡ Fun fact: My favourite subject is mathematics and I pursing my dream to use it in my code at great extend. 
+- ⚡ Fun fact: The Apollo 11 guidance computer, which helped land humans on the moon, had less processing power than a modern-day calculator. It had just 64 kilobytes of memory!. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Coderlogy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@WadhwaShourya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Coderlogy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC4-BRxXYcfADtkPa_qE1Xhw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/invite/gGugvbs)  
