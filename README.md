@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Shourya wadhwa
+### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, My name is Shourya wadhwa
 #### I am the person of world.
 ![banner](https://user-images.githubusercontent.com/71631493/175268923-3037d11b-c4b8-48a4-8b31-cac5637aebc9.png)
 
