@@ -1,5 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, My name is Shourya wadhwa
-#### I am the person of world.
+#
+### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, My name is Shourya wadhwa 
+
+### I am the person of world.
+
 ![banner](https://user-images.githubusercontent.com/71631493/175268923-3037d11b-c4b8-48a4-8b31-cac5637aebc9.png)
 
 Hey, It's me a passionate developer from World. I hope to make many projects this year.
@@ -15,7 +18,7 @@ Skills 👨‍💻:
 - 💬 Ask me about Anything related to programming.  
 - 📫 How to reach me: sourceboxtv@gmail.com 
 - 😄 Pronouns: He/ His 
-- ⚡ Fun fact: The Apollo 11 guidance computer, which helped land humans on the moon, had less processing power than a modern-day calculator. It had just 64 kilobytes of memory! .
+- ⚡ Fun fact: The Apollo 11 guidance computer, which helped land humans on the moon, had less processing power than a modern-day calculator. It had just 64 kilobytes of memory! . So, whenever you say that what we acheived as humanity just remember how we evovled from back then.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Coderlogy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@WadhwaShourya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Coderlogy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC4-BRxXYcfADtkPa_qE1Xhw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/invite/gGugvbs)  
@@ -32,12 +35,13 @@ Skills 👨‍💻:
 
 [//]: < ![GitHub metrics](https://metrics.lecoq.io/Coderlogy)  >
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Coderlogy)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Coderlogy) 
+
+<img src="https://raw.githubusercontent.com/coderlogy/coderlogy/output/snake.svg" alt="Snake animation" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tears%20of%20Joy.png" alt="Face with Tears of Joy" width="25" height="25" /> Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 
 
 ---
