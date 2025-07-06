@@ -20,8 +20,11 @@ Skills 👨‍💻:
 - 😄 Pronouns: He/ His 
 - ⚡ Fun fact: The Apollo 11 guidance computer, which helped land humans on the moon, had less processing power than a modern-day calculator. It had just 64 kilobytes of memory! . So, whenever you say that what we acheived as humanity just remember how we evovled from back then.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Coderlogy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@WadhwaShourya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Coderlogy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC4-BRxXYcfADtkPa_qE1Xhw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/invite/gGugvbs)  
+<a href="https://github.com/Coderlogy"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" style="height:40px;"></a>
+<a href="https://twitter.com/@WadhwaShourya"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" style="height:40px;"></a>
+<a href="https://codepen.io/Coderlogy"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="CodePen" style="height:40px;"></a>
+<a href="https://www.youtube.com/channel/UC4-BRxXYcfADtkPa_qE1Xhw"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" style="height:40px;"></a>
+<a href="https://discord.com/invite/gGugvbs"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" style="height:40px;"></a>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
