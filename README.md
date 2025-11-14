@@ -20,6 +20,9 @@ Skills 👨‍💻:
 - 😄 Pronouns: He/ His 
 - ⚡ Fun fact: The Apollo 11 guidance computer, which helped land humans on the moon, had less processing power than a modern-day calculator. It had just 64 kilobytes of memory! . So, whenever you say that what we acheived as humanity just remember how we evovled from back then.
 
+
+![HackaTime](https://github-readme-stats.hackclub.dev/api/wakatime?username=346&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=blue-green)
+
 <a href="https://github.com/Coderlogy"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" style="height:40px;"></a>
 <a href="https://twitter.com/@WadhwaShourya"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" style="height:40px;"></a>
 <a href="https://codepen.io/Coderlogy"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="CodePen" style="height:40px;"></a>
@@ -46,7 +49,4 @@ Skills 👨‍💻:
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ### 
-
-![HackaTime](https://github-readme-stats.hackclub.dev/api/wakatime?username=346&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=blue-green)
-
 ---
