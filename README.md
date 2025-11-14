@@ -40,11 +40,13 @@ Skills 👨‍💻:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Coderlogy) 
 
-<img src="https://raw.githubusercontent.com/coderlogy/coderlogy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/coderlogy/coderlogy/output/snake.svg" alt="Snake animation" width="100%"/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ### 
+
+![HackaTime](https://github-readme-stats.hackclub.dev/api/wakatime?username=346&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=blue-green)
 
 ---
