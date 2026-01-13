@@ -2,7 +2,7 @@ name: Update Current Project
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 6 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,11 +13,11 @@ jobs:
       - name: Checkout profile repo
         uses: actions/checkout@v4
 
+      - name: Install jq (JSON parser)
+        run: sudo apt-get update && sudo apt-get install -y jq
+
       - name: Get latest active repository
         run: |
-          sudo apt-get update
-          sudo apt-get install -y jq
-
           REPO=$(curl -s \
             -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             https://api.github.com/users/${{ github.repository_owner }}/events/public \
@@ -28,6 +28,7 @@ jobs:
 
       - name: Update README
         run: |
+          # Use '|' as delimiter to avoid sed issues with special chars like [ ]
           sed -i "s|{{CURRENT_PROJECT}}|${LATEST_REPO}|g" README.md
 
       - name: Commit and push changes
@@ -37,4 +38,5 @@ jobs:
           git add README.md
           git commit -m "Update current project" || exit 0
           git push
+
 
