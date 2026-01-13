@@ -1,0 +1,36 @@
+name: Update Current Project
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Get latest active repository
+        run: |
+          REPO=$(curl -s \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/users/${{ github.repository_owner }}/events/public \
+            | jq -r '.[] | select(.type=="PushEvent") | .repo.name' \
+            | head -n 1)
+
+          echo "LATEST_REPO=$REPO" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s/{{CURRENT_PROJECT}}/${LATEST_REPO}/g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update current project" || exit 0
+          git push
