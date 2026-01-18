@@ -41,7 +41,7 @@ Skills 👨‍💻:
 [//]: < ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Coderlogy)  >
 
 [//]: < ![GitHub metrics](https://metrics.lecoq.io/Coderlogy)  >
-
+<br> <br>
 </div>
 <img src="https://raw.githubusercontent.com/coderlogy/coderlogy/output/snake.svg" alt="Snake animation" width="100%"/>
 
