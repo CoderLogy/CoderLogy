@@ -13,7 +13,7 @@ Skills 👨‍💻:
 
 - 🔭 I’m currently working on **CoderLogy/CoderLogy**
 - 🌱 I’m currently learning intro to Java! 
-- 👯 I’m looking for a ##Job.  
+- 👯 I’m looking for a Job.  
 - 🤔 I’m looking for help with Cool-Terminal[2022] 
 - 💬 Ask me about Anything related to programming.  
 - 📫 How to reach me: sourceboxtv@gmail.com 
