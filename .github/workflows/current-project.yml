@@ -16,14 +16,12 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Get latest active repository
-        env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}  # Personal Access Token
+      - name: Get latest public push repository
         run: |
-          # Fetch your latest events including private repos
-          LATEST_REPO=$(curl -s -H "Authorization: token $GH_TOKEN" \
-            https://api.github.com/user/events \
-            | jq -r '.[] | select(.type=="PushEvent" or .type=="PullRequestEvent") | .repo.name' \
+          # Get your latest public push event
+          LATEST_REPO=$(curl -s \
+            https://api.github.com/users/${{ github.repository_owner }}/events/public \
+            | jq -r '.[] | select(.type=="PushEvent") | .repo.name' \
             | head -n 1)
 
           echo "LATEST_REPO=$LATEST_REPO" >> $GITHUB_ENV
@@ -31,8 +29,9 @@ jobs:
 
       - name: Update README
         run: |
-          # Replace the entire Current Project line
-          sed -i "s|^\*\*Current Project:\*\*.*|**Current Project:** ${LATEST_REPO}|" README.md
+          # Replace only the bolded repo name inside '**...**'
+          # Works with a sentence like: 🔭 I’m currently working on **coderlogy/coderlogy**
+          sed -i "s|\*\*[^*]*\*\*|**${LATEST_REPO}**|" README.md
 
       - name: Commit and push changes
         run: |
