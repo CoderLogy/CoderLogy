@@ -2,7 +2,7 @@ name: Update Current Project
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -10,33 +10,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout profile repo
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install jq (JSON parser)
+      - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Get latest active repository
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}  # Personal Access Token
         run: |
-          REPO=$(curl -s \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            https://api.github.com/users/${{ github.repository_owner }}/events/public \
-            | jq -r '.[] | select(.type=="PushEvent") | .repo.name' \
+          # Fetch your latest events including private repos
+          LATEST_REPO=$(curl -s -H "Authorization: token $GH_TOKEN" \
+            https://api.github.com/user/events \
+            | jq -r '.[] | select(.type=="PushEvent" or .type=="PullRequestEvent") | .repo.name' \
             | head -n 1)
 
-          echo "LATEST_REPO=$REPO" >> $GITHUB_ENV
+          echo "LATEST_REPO=$LATEST_REPO" >> $GITHUB_ENV
+          echo "Latest repo detected: $LATEST_REPO"
 
       - name: Update README
         run: |
-          # Use '|' as delimiter to avoid sed issues with special chars like [ ]
-          sed -i "s|{{CURRENT_PROJECT}}|${LATEST_REPO}|g" README.md
+          # Replace the entire Current Project line
+          sed -i "s|^\*\*Current Project:\*\*.*|**Current Project:** ${LATEST_REPO}|" README.md
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Update current project" || exit 0
+          git commit -m "Update current project" || echo "No changes to commit"
           git push
-
-
