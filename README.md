@@ -12,21 +12,21 @@
 
 ## 🚀 About Me
 
-Hey! I'm a self-driven developer who loves building things from scratch — whether that's an AI assistant, a blockchain with in-browser mining, or a Flask-powered weather app. I write mostly **Python**, **TypeScript**, and **JavaScript**, and I'm always working on the next ambitious project.
+Hey! I'm a self-driven developer who loves building things from scratch — whether that's an AI assistant, a blockchain with in-browser mining, or a Flask-powered weather app. I write mostly **CoderLogy/CoderLogy**, **TypeScript**, and **JavaScript**, and I'm always working on the next ambitious project.
 
-- 🔭 I'm currently working on ****
-- 🌱 Currently learning **Java** and diving deeper into system design
-- 👯 Looking to collaborate on open-source **Python / TypeScript** projects
+- 🔭 I'm currently working on **CoderLogy/CoderLogy**
+- 🌱 Currently learning **CoderLogy/CoderLogy** and diving deeper into system design
+- 👯 Looking to collaborate on open-source **CoderLogy/CoderLogy** projects
 - 💬 Ask me about anything related to programming
-- 📫 How to reach me: **sourceboxtv@gmail.com**
+- 📫 How to reach me: **CoderLogy/CoderLogy**
 - 😄 Pronouns: He / His
-- ⚡ Fun fact: The Apollo 11 guidance computer had just **64 KB of RAM** — less than a modern calculator. Proof that constraints breed creativity.
+- ⚡ Fun fact: The Apollo 11 guidance computer had just **CoderLogy/CoderLogy** — less than a modern calculator. Proof that constraints breed creativity.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**CoderLogy/CoderLogy**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,12 +34,12 @@ Hey! I'm a self-driven developer who loves building things from scratch — whet
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+**CoderLogy/CoderLogy**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-**Tools & Platforms**
+**CoderLogy/CoderLogy**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
