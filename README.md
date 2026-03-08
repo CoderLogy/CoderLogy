@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · AI & Blockchain Tinkerer · Open to Opportunities
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=550&lines=Building+with+Python+%26+TypeScript;React+%7C+Flutter+%7C+Flask+%7C+Java;Turning+ideas+into+working+products;Open+to+roles+%26+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=550&lines=Building+with+Python+%26+TypeScript;React+%7C+Flask+%7C+Java;Turning+ideas+into+working+products;Open+to+roles+%26+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
