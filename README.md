@@ -110,7 +110,3 @@ Hey! I'm a self-driven developer who loves building things from scratch — whet
 </p>
 
 ---
-
-<div align="center">
-  <sub>Built with ❤️ by Shourya Wadhwa · <a href="mailto:sourceboxtv@gmail.com">sourceboxtv@gmail.com</a></sub>
-</div>
