@@ -14,7 +14,7 @@
 
 Hey! I'm a self-driven developer who loves building things from scratch — whether that's an AI assistant, a blockchain with in-browser mining, or a Flask-powered weather app. I write mostly **Python**, **TypeScript**, and **JavaScript**, and I'm always working on the next ambitious project.
 
-- 🔭 I'm currently working on **CoderLogy/TodoApp**
+- 🔭 I'm currently working on ****
 - 🌱 Currently learning **Java** and diving deeper into system design
 - 👯 Looking to collaborate on open-source **Python / TypeScript** projects
 - 💬 Ask me about anything related to programming
